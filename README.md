@@ -8,5 +8,6 @@ o "Cross Validation" https://scikit-learn.org/stable/modules/cross_validation.ht
 En el presente repositorio muestro algunos ejemplos en donde utilizo Validación Cruzada 
 para validar el entrenamiento cuando se usan modelos de:
 * Regresión Lineal
-* Regresión Logística (clasificación binaria)
-* Random Forest (clasificación múltiple)
+* Regresión Logística (para clasificación múltiple)
+* Random Forest (para clasificación múltiple)
+* Decision Tree (para clasificación múltiple)
