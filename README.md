@@ -11,3 +11,4 @@ para validar el entrenamiento cuando se usan modelos de:
 * Regresión Logística (para clasificación múltiple)
 * Random Forest (para clasificación múltiple)
 * Decision Tree (para clasificación múltiple)
+* Neural Networks
