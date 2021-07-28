@@ -1,7 +1,7 @@
 # Cross Validation Examples
 
 
-Después de entrenar un algoritmo es importante asignarle una calificación (o nivel de confinaza)
+Después de entrenar un modelo es importante asignarle una calificación (o nivel de confinaza)
 para saber con que precisión seran sus predicciones. Para esto usaremos la técnica Validación Cruzada
 o "Cross Validation" https://scikit-learn.org/stable/modules/cross_validation.html
 
